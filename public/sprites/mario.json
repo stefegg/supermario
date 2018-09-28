@@ -37,5 +37,16 @@
 
       ]
     }
+  ],
+  "animations": [
+    {
+      "name": "run",
+      "frameLen": 6,
+      "frames": [
+        "run-1",
+        "run-2",
+        "run-3"
+      ]
+    }
   ]
 }
